@@ -10,6 +10,7 @@ public class JavaAppProjectApplication {
 		SpringApplication.run(JavaAppProjectApplication.class, args);
 		System.out.println("dev1 commit");
 		System.out.println("dev1 commit2");
+		System.out.println("dev1 commit3");
 	}
 
 }

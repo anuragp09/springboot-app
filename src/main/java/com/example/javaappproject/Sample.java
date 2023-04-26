@@ -1,4 +1,4 @@
 package com.example.javaappproject;
 
-public class Demo2 {
+public class Sample {
 }
